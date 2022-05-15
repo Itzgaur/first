@@ -1,3 +1,5 @@
 this is the txt file.
 
 I am using this one to learn the git properly.
+there is one more line
+I am editing using Vim
